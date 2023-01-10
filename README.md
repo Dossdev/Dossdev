@@ -1,3 +1,7 @@
-<h1 align="center">Hi, I'm Doss</h1>
+<h1 align="center">Bem vindo ao meu perfil</h1>
+Olá, sou iniciante no mundo da programação e estou aprendendo Javascript, CSS e HTML
 
-<p align="left"> <a href="https://twitter.com/dosswr" target="blank"><img src="https://img.shields.io/twitter/follow/dosswr?logo=twitter&style=for-the-badge" alt="dosswr" /></a> </p>
+*** 
+<div><a href="https://instagram.com/dosswr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/mtcatarina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+             <a href="https://twitter.com/DossWR" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> </div>
