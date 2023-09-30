@@ -1,5 +1,5 @@
 <h1 align="center">Bem vindo ao meu perfil</h1>
-Olá, sou iniciante no mundo da programação e estou aprendendo Javascript, CSS e HTML
+Olá, sou iniciante no mundo da programação 
 
 *** 
 <div>
