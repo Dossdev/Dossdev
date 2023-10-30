@@ -16,10 +16,10 @@
   <a href="https://twitter.com/DossWR" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://medium.com/@dossnotion" target="blank">
+  <a href="https://medium.com/@dossdev" target="blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.notion.so/seu-link" target="_blank">
+  <a href="https://dosswr.super.site/" target="_blank">
     <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
 </div>
