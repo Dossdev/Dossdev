@@ -19,8 +19,6 @@
   <a href="https://medium.com/@dossdev" target="blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://dosswr.super.site/" target="_blank">
-    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
 </div>
 
